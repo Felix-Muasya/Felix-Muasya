@@ -1,21 +1,21 @@
-[![MasterHead](https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif)]
+[![MasterHead](https://media1.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=790b7611e5b7a7aac259da8651e07a6ff40b02eee03cc210&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Muasya Felix</h1>
 <h3 align="center">A passionate Data Scientist and AI engineer from Kenya</h3>
-<img align="right" alt = "Excel" width=400 src="
-https://media1.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=790b7611e5b7a7aac259da8651e07a6ff40b02eee03cc210&rid=giphy.gif&ct=g">
+<img align="right" alt = "Neural Nets" width=400 src="
+https://thumbs.gfycat.com/ActiveCourteousAmericanindianhorse-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felix-muasya&label=Profile%20views&color=0e75b6&style=flat" alt="felix-muasya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Rust and Stable Diffusion**
 
-- 💬 Ask me about **anything AI/DS or Data analysis**
+- 💬 Ask me about **anything in Python, Jupyter, R, SQL or Julia**
 
 - 📫 How to reach me **kitemefelix@gmail.com**
 
-- ⚡ Fun fact **I like games**
+- ⚡ Fun fact **:I Like FPS and RPG games, coding and learning new stuff**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Discord @ Kiteme#4582</h3>
 <p align="left">
 </p>
 
