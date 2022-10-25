@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=790b7611e5b7a7aac259da8651e07a6ff40b02eee03cc210&rid=giphy.gif&ct=g)]
+[![MasterHead](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)]
 <h1 align="center">Hi 👋, I'm Muasya Felix</h1>
 <h3 align="center">A passionate Data Scientist and AI engineer from Kenya</h3>
 <img align="right" alt = "Neural Nets" width=400 src="
