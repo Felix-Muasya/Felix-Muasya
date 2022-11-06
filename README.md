@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C0BD8D&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)  
 [![MasterHead](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)]
 <h1 align="center">Hi 👋, I'm Muasya Felix</h1>
 <h3 align="center">A passionate Data Scientist and AI engineer from Kenya</h3>
@@ -28,4 +29,4 @@ https://thumbs.gfycat.com/ActiveCourteousAmericanindianhorse-max-1mb.gif">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felix-muasya&" alt="felix-muasya" /></p>
 
--->
+
