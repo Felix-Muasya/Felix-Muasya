@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C0BD8D&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)  
-[![MasterHead](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)]
+
 <h1 align="center">Hi 👋, I'm Muasya Felix</h1>
 <h3 align="center">A passionate Data Scientist and AI engineer from Kenya</h3>
-<img align="right" alt = "Neural Nets" width=400 src="
-https://thumbs.gfycat.com/ActiveCourteousAmericanindianhorse-max-1mb.gif">
+<img align="right" alt = "Neural Nets" width=400 src="https://thumbs.gfycat.com/ActiveCourteousAmericanindianhorse-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felix-muasya&label=Profile%20views&color=0e75b6&style=flat" alt="felix-muasya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
