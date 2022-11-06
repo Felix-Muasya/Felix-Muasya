@@ -29,4 +29,4 @@ https://thumbs.gfycat.com/ActiveCourteousAmericanindianhorse-max-1mb.gif">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felix-muasya&" alt="felix-muasya" /></p>
 
-
+<a href="https://github.com/Felix-Muasya"><img src="https://activity-graph.herokuapp.com/graph?username=felix-muasya&bg_color=581c87&color=ffffff&line=0891b2&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
