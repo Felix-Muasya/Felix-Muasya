@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C0BD8D&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)  
 ___  
 <h1 align="center">Hi 👋, I'm Muasya Felix</h1>
-<h3 align="center">A passionate Data Scientist and AI engineer from Kenya</h3>
+<h3 align="center">I'm a python engineer, data engineer/data scientist </h3>
 <img align="right" alt = "" width=400 src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felix-muasya&label=Profile%20views&color=0e75b6&style=flat" alt="felix-muasya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Rust and Stable Diffusion**
+- 🌱 I’m currently learning **C, C++, Rust and Embedded Machine learning**
 
 - 💬 Ask me about **anything in Python, Jupyter, R, SQL or Julia**
 
 - 📫 How to reach me **kitemefelix@gmail.com**
 
-- ⚡ Fun fact **:I Like FPS and RPG games, coding and learning new stuff**
+- ⚡ Fun fact **Coding, Math and learning new things**
 
 <h3 align="left">Connect with me: Discord @ Kiteme#4582</h3>
 <p align="left">
