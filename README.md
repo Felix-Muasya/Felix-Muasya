@@ -11,7 +11,7 @@ ___
 
 - 💬 Ask me about **anything in Python, Jupyter, R, SQL or Julia**
 
-- 📫 How to reach me **kitemefelix@gmail.com**
+- 📫 How to reach me **muasyafelixk@gmail.com**
 
 - ⚡ Fun fact **Coding, Math and learning new things**
 
@@ -27,7 +27,7 @@ ___
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felix-muasya" alt="codewithlennylen" /></a> </p>
 
 ___
-<a href="https://github.com/Felix-Muasya"><img src="https://activity-graph.herokuapp.com/graph?username=felix-muasya&bg_color=581c87&color=ffffff&line=0891b2&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Felix-Muasya"><img src="https://activity-graph.herokuapp.com/graph?username=felixmuasya&bg_color=581c87&color=ffffff&line=0891b2&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=felix-muasya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felix-muasya&theme=dark&hide_border=false)<br/>
