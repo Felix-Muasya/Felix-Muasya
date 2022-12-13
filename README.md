@@ -13,7 +13,7 @@ ___
 
 - 📫 How to reach me **muasyafelixk@gmail.com**
 
-- ⚡ Fun fact **Coding, Math and learning new things**
+
 
 <h3 align="left">Connect with me: Discord @ Kiteme#4582</h3>
 <p align="left">
