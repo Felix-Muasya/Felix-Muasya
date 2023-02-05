@@ -7,13 +7,13 @@ ___
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, Rust and Embedded Machine learning**
+- 🌱 I’m currently learning **C, C++, Rust and Embedded Machine learning**. [These](https://drive.google.com/drive/u/0/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ) are the resources I'm currently using.  
 
 - 💬 Ask me about **anything in Python, Jupyter, R, SQL or Julia**
 
 - 📫 How to reach me **muasyafelixk@gmail.com**
 
-
+- 
 
 <h3 align="left">Connect with me: Discord @ Kiteme#4582</h3>
 <p align="left">
