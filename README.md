@@ -7,7 +7,7 @@ ___
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, Rust and Embedded Machine learning**. These are the resources I'm currently using: [r/learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq/) FAQ, [Google Drive](https://drive.google.com/drive/u/0/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ), from space ya tech Discord Server,   
+- 🌱 I’m currently learning **C, C++, Rust and Embedded Machine learning**. These are the resources I'm currently using: [r/learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq/) FAQ, [Google Drive](https://drive.google.com/drive/u/0/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ) from space ya tech Discord Server.   
 - 💬 Ask me about **anything in Python, Jupyter, R, SQL or Julia**
 
 - 📫 How to reach me **muasyafelixk@gmail.com**
