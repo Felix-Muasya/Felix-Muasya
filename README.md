@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C0BD8D&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)  
 ___  
 <h1 align="center">Hi 👋, I'm Muasya Felix</h1>
-<h3 align="center">I'm a python engineer, data engineer/data scientist </h3>
+<h3 align="center">I'm a Python Engineer, Data Engineer / Data Scientist </h3>
+<h4 align = "center"> I am on a mission to bridge Kenya's technological gap through innovative AI-driven solutions. With expertise in data engineering and data science, my vision is to empower fellow Kenyans not only as tech users but also as contributors to its development. I am dedicated to practical applications, starting with an autonomous drone project aimed at revolutionizing agriculture, wildlife conservation, healthcare, and infrastructure. Through global collaboration and a strong commitment to responsible AI, I am determined to position Kenya as a hub for technological innovation, propelling our nation's growth onto the global stage. </h4> 
 <img align="right" alt = "" width=400 src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felix-muasya&label=Profile%20views&color=0e75b6&style=flat" alt="felix-muasya" /> </p>
 
@@ -14,10 +15,14 @@ ___
 
 - 
 
-<h3 align="left">Connect with me: Discord @ Kiteme#4582</h3>
+<h3 align="left">Connect with me: Discord @ .kiteme#4582</h3>
+<h3 align = "center"> Feel Free to Look at my Work </h3>  
+
+
 <p align="left">
 </p>
  
+
  
 <h3 align="left">Languages and Tools:</h3>  
 
