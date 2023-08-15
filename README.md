@@ -11,9 +11,10 @@ ___
 - 🌱 I’m currently learning **C, C++, Rust and Embedded Machine learning**. These are the resources I'm currently using: [r/learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq/) FAQ, [Google Drive](https://drive.google.com/drive/u/0/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ) from space ya tech Discord Server.   
 - 💬 Ask me about **anything in Python, Jupyter, R, SQL or Julia**
 
-- 📫 How to reach me **muasyafelixk@gmail.com**
+  <h3 align = "center"> Link up with me on Discord below </h3>  
+ ![My Discord](https://discord-readme-badge.vercel.app/api?id=761249447626801173)
 
-- 
+
 
 <h3 align="left">Connect with me: Discord @ .kiteme#4582</h3>
 <h3 align = "center"> Feel Free to Look at my Work </h3>  
