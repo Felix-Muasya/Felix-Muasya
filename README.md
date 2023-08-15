@@ -16,7 +16,7 @@ ___
 
 
 
-<h3 align="left">Connect with me: Discord @ .kiteme#4582</h3>
+
 <h3 align = "center"> Feel Free to Look at my Work </h3>  
 
 
